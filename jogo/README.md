@@ -1,4 +1,5 @@
 Jogo do Impostor 
+
     Um jogo de dedução lógica, desenvolvido em Java para rodar diretamente no terminal, utilizando caixas de diálogo para interação.
 
     Como Executar:
